@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning NodeJs, Redux, React Query.
-- 🤔 I’m looking for help with open source
+- 🤔 I’m looking for help and contribute with open source
 - 💬 Ask me about React
 - 📫 How to reach me: prasanna@sibbc.org
 
