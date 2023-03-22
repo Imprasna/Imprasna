@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 I'm Prasanna -->
-###<h3 align="center">Hi there 👋 I'm Prasanna S</h3>
-##<p align="center">Front-end Developer</p>
+<h3 align="center">Hi there 👋 I'm Prasanna S</h3>
+<p align="center">Front-end Developer</p>
 <hr />
 
 - 🔭 I’m currently working on Portfolio
