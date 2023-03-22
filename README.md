@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Prasanna
+<p align="center">Hi there 👋 I'm Prasanna</p>
 
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning NodeJs, Redux, React Query.
