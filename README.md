@@ -12,7 +12,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imprasna&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
-![Alt text](https://github.com/Imprasna/Imprasna/blob/main/html.png "HTML5")
+![Alt text](https://github.com/Imprasna/Imprasna/blob/main/html.png "HTML5" "10")
  
 <!--
 **Imprasna/Imprasna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
