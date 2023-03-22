@@ -12,7 +12,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imprasna&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
-<img src="[/path/to/img.jpg](https://github.com/Imprasna/Imprasna/blob/main/html.png)" alt="HTML5" title="Optional title" style="height:20;">
+<img src="[/path/to/img.jpg](https://github.com/Imprasna/Imprasna/blob/main/html.png)" alt="HTML5" title="Optional title" style="max-width: 300px">
 <!-- ![Alt text](https://github.com/Imprasna/Imprasna/blob/main/html.png "HTML5" "10") -->
  
 <!--
