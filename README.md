@@ -6,7 +6,7 @@
 - 💬 Ask me about React
 - 📫 How to reach me: prasanna@sibbc.org
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imprasna&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imprasna&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
  
 <!--
 **Imprasna/Imprasna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
