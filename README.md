@@ -1,5 +1,7 @@
 <!-- ### Hi there 👋 I'm Prasanna -->
-<h3 align="center">###Hi there 👋 I'm Prasanna</h3>
+###<h3 align="center">Hi there 👋 I'm Prasanna S</h3>
+##<p align="center">Front-end Developer</p>
+<hr />
 
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning NodeJs, Redux, React Query.
