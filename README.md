@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning NodeJs, Redux, React Query.
 - 🤔 I’m looking for help and contribute with open source
-- 💬 Ask me about React
 - 📫 How to reach me: prasanna@sibbc.org
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imprasna&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,6 +20,7 @@
 </div>
  
 <!--
+- 💬 Ask me about React
 **Imprasna/Imprasna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
